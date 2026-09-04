@@ -32,7 +32,7 @@ Passionate Mobile Application Developer with hands-on experience architecting sc
 
 ### 📂 Other Key Projects
 
-#### 🏷️ [Coupons Application (Production App)](https://github.com/blalfayed)
+#### 🏷️ [Coupons Application (Production App)]
 - Built with **Flutter, Dio, REST API, Cubit**.
 - Features subscription-based coupon access, API error handling via Dio, and an **Admin Control Panel**.
 - **Published on Google Play.**
@@ -45,7 +45,7 @@ Passionate Mobile Application Developer with hands-on experience architecting sc
 - Built with **Flutter, Firebase Authentication, Cloud Firestore Streams**.
 - Real-time instant messaging, active session handling, and responsive message feeds.
 
-#### 👗 [Clothes E-Commerce with Admin Panel](https://github.com/blalfayed)
+#### 👗 [Clothes E-Commerce with Admin Panel]
 - Built with **Flutter, Dio, Cubit, REST API**.
 - Full user purchase workflow + comprehensive Admin Panel to manage catalog, stock, brands, and shipments.
 
