@@ -18,7 +18,7 @@ Passionate Mobile Application Developer with hands-on experience architecting sc
 
 ### 🌟 Featured Enterprise Project
 
-#### 🎓 [Edutrack Pro — Smart Learning & Academy Management System (LMS)](https://github.com/blalfayed)
+#### 🎓 [Edutrack Pro — Smart Learning & Academy Management System (LMS)]
 > **Role:** Full-Stack Mobile Developer (Flutter & Node.js)  
 > **Tech Stack:** Flutter, Dart, BLoC / Cubit, Clean Architecture, Node.js, Express.js, MS SQL Server / PostgreSQL, RESTful APIs, JWT, Dio, Paymob, FL Chart.
 
